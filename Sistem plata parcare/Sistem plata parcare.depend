@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683588345 source:d:\sistem plata parcare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+
